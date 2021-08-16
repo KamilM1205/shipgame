@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"assets\/Tilemap\/tiles.png",
+ "imageheight":169,
+ "imagewidth":203,
+ "margin":0,
+ "name":"ShipGame",
+ "spacing":1,
+ "tilecount":120,
+ "tiledversion":"1.7.1",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}
